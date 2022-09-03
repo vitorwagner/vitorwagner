@@ -16,8 +16,8 @@
 
 <div align="center">
   
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![GitHub Snake Light](https://github.com/vitorwagner/vitorwagner/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![GitHub Snake Dark](https://github.com/vitorwagner/vitorwagner/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
 </div>
 
