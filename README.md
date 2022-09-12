@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Vítor Wagner, a Full-Stack Developer!
+# 👨‍💻 Hi, I'm Vítor, a Full-Stack Developer!
 
 <h3><strong>About me</strong></h3>
 
