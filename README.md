@@ -4,6 +4,8 @@
 
 <div align="left" style="display: inline_block">
   <li> 🧪 I'm a chemical engineer switching to a career in IT.</li>
+  <li> 🧉 Porto Alegre/RS - Brazil</li>
+  <li> 🔭 I'm currently studying at <a href="https://betrybe.com">Trybe</a></li>
   
 ## 💻 Technologies
 
