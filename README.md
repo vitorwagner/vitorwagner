@@ -33,6 +33,7 @@
     <td>
       <img align="center" alt="Vitor-MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
       <img align="center" alt="Vitor-Nodejs" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img align="center" alt="Vitor-Express" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
       <img align="center" alt="Vitor-Ts" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <br>
       <br>       
