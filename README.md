@@ -27,7 +27,8 @@
       <img align="center" alt="Vitor-Redux" height="31" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
       <br>
       <br>
-      <img align="center" alt="Juliano-Tailwind" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />         <img align="center" alt="Juliano-Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+      <img align="center" alt="Vitor-Tailwind" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+      <img align="center" alt="Vitor-Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
     </td>
     <td>
       <img align="center" alt="Vitor-MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -39,6 +40,7 @@
     <td>
       <img align="center" alt="Vitor-Jest" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
       <img align="center" alt="Vitor-RTL" height="34" width="34" src="https://testing-library.com/img/octopus-128x128.png" />
+      <img align="center" alt="Vitor-Mocha" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
       <br>
       <br>
     </td>
