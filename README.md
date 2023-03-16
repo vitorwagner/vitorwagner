@@ -53,22 +53,6 @@
   </tr>
 </table>
 
-## 📊 Statistics
-
-<br>
-<div align="center">
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorwagner&count_private=true&show_icons=true&theme=nord" />
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorwagner&layout=compact&theme=nord" />
-</div>
-<br>
-
-<div align="center">
-  
-  ![GitHub Snake Light](https://github.com/vitorwagner/vitorwagner/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![GitHub Snake Dark](https://github.com/vitorwagner/vitorwagner/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  
-</div>
-
 ## 💬 Contact
 
 <div align="center" style="display: inline_block">
