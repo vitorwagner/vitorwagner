@@ -35,6 +35,7 @@
       <img align="center" alt="Vitor-Nodejs" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img align="center" alt="Vitor-Express" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
       <img align="center" alt="Vitor-Ts" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img align="center" alt="Vitor-Sequelize" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-plain.svg" />
       <br>
       <br>       
     </td>
